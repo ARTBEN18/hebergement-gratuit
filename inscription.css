@@ -1,0 +1,60 @@
+body{
+   background-image: url(arts-how-arts-benefits-us-all.jpg);   
+    background-repeat: round;
+}
+body .tet{
+   margin-left: 10%;
+   position: relative;
+   margin-top: 8%;
+   font-size: 14px;
+
+}
+body .tet label{
+    color:rgb(9, 8, 90);
+    font-size: 15px;
+    font-weight: arial;
+}
+ body .tet input{
+    padding: 8px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color: white;
+    outline: blue;
+ }
+
+ body .corps label{
+    margin-left: 40%;
+    color:rgb(4, 13, 97);
+    font-size: 16px;
+ }
+
+ body .pied input{
+    border-radius: 5px;
+    padding: 8px;
+    color: blue;
+    margin-left: 25%;
+    margin-top: -17%;
+    position: relative;
+ }
+ body .corps input{
+    margin-left: 40%;
+    padding: 8px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color:white;
+    outline: rgb(27, 24, 27);
+    color: blue;
+ }
+ body .corps{
+    margin-top: -38%;
+    margin-left: 20%;
+    position: relative;
+ }
+ body .formulaire{
+    position: relative;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;;
+ }
